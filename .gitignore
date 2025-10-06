@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build / dist
+dist/
+build/
+
+# Environment variables
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Uploads (se quiser não subir fotos)
+uploads/
